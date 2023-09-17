@@ -10,7 +10,6 @@ c1 = color(40,128,128,100);
 c2 = color(10,5,128,100);
 c3 = color(220,64,128,100);
 //c4 = color (120,16,128,100);
-
 background(back);
   for (let i=20;i<width;i=i+20){
     for (let j=20;j<height;j=j+20){
